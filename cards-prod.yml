@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related prod APIs-superb-123-8900"
+  message: "Hey, welcome to EazyBank cards related prod APIs-superb-123-8900-9090"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
